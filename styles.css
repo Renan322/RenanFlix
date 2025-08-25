@@ -2,6 +2,7 @@ body {
     color: white;
     background: rgb(12, 11, 12);
     margin: 0px;
+    font-family: "Coda", system-ui;
 }
 
 header {
