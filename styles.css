@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: rgb(196, 2, 2);
     background: rgb(12, 11, 12);
     margin: 0px;
     font-family: "Coda", system-ui;
@@ -13,7 +13,7 @@ header {
 }
 
 section {
-    background: rgb(rgb(21, 21, 22));
+    background: rgb(rgba(0, 0, 0, 0.753));
     padding-bottom: 80px;
     padding-top: 80px;
     display:flex;
@@ -23,3 +23,13 @@ section {
 .chamada-texto{
     margin-right: 20px;
 }
+
+h1{
+    font-size: 60px
+}
+
+p{
+    font-size: 30px;
+}
+
+
