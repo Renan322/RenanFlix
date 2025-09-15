@@ -12,7 +12,7 @@ header {
     color: rgb(231, 12, 12);
 }
 
-section {
+.chamada {
     background: rgb(rgba(0, 0, 0, 0.753));
     padding-bottom: 80px;
     padding-top: 80px;
@@ -33,8 +33,26 @@ p{
 }
 
 img{
-    height: 60px;
+    height: 200px;
 }
+
+.categoria-vidios{
+    display: flex;
+    overflow-x: auto;
+    gap: 10;
+}
+
+.categoria{
+  padding-left: 15;
+  padding-right: 20;
+}
+
+
+
+
+
+
+
 
 
 
